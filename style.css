@@ -1,0 +1,17 @@
+.gradient-custom {
+    background: radial-gradient(50% 123.47% at 50% 50%, #040404 0%, #000000 100%),
+     
+
+  }
+  
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
